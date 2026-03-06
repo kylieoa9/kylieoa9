@@ -3,15 +3,15 @@
 I am a recent Ph.D. graduate at UCLA pursuing a career in Data Science or Quantitative UX
 
 ## Education: 
-Ph.D. at UCLA in Cognitive Psychology
-M.A. at UCLA in Cognitive Psychology 
-B.S. at Union College 
+Ph.D. at UCLA in Cognitive Psychology<br/>
+M.A. at UCLA in Cognitive Psychology<br/> 
+B.S. at Union College<br/> 
 
 ## Work Experience:
-Data Science Intern at American AgCredit
-Graduate Researcher at UCLA
-Research Assistant at Union College
-Teaching Fellow at UCLA
+Data Science Intern at American AgCredit<br/>
+Graduate Researcher at UCLA<br/>
+Research Assistant at Union College<br/>
+Teaching Fellow at UCLA<br/>
 
 ## Tech Stack
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
