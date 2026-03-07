@@ -1,7 +1,7 @@
 # About Me:
 
 I am a recent Ph.D. graduate at UCLA pursuing a career in Data Science or Quantitative UX<br/>
-View my [Website](https://kylieoa9.github.io/My_Website/) for more of my experience in detail
+View my [Website](https://kylieoa9.github.io/My_Website/) for more of my experiences in detail
 
 ## Education: 
 Ph.D. at UCLA in Cognitive Psychology<br/>
